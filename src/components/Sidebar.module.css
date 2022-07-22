@@ -1,6 +1,6 @@
 .sidebar {
   background: var(--gray-800);
-  broder-radius: 8px;
+  border-radius: 8px;
   overflow: hidden;
 }
 
