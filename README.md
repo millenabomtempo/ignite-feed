@@ -31,7 +31,7 @@ The app was used to learn about React fundamentals such as componentization, pro
 
 ```bash
 # Clone repository into your machine
-$ git clone https://github.com/millenabomtempo/
+$ git clone https://github.com/millenabomtempo/ignite-feed.git
 
 # Install dependencies
 $ yarn install or npm install
@@ -39,7 +39,7 @@ $ yarn install or npm install
 # Run application
 $ yarn dev or npm run dev
 
-# The aplication will init at port:3000 - access http://localhost:3000/ignite-feed.git
+# The aplication will init at port:3000 - access http://localhost:3000/
 ```
 
 <p align="center"> Made with :heart: by <a href="https://github.com/millenabomtempo">Millena Bomtempo</a></p>
