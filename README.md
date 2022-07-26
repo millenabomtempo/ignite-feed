@@ -1,4 +1,5 @@
 # Ignite Feed
+![img](https://user-images.githubusercontent.com/47898033/181016931-367fff86-80bc-4e60-8657-011941b7716b.png)
 
 ![Badge](https://img.shields.io/badge/since-2022-blue?style=flat-square)
 ![Badge](https://img.shields.io/badge/status-finalizado-green?style=flat-square)
@@ -38,7 +39,7 @@ $ yarn install or npm install
 # Run application
 $ yarn dev or npm run dev
 
-# The aplication will init at port:3000 - access http://localhost:3000/
+# The aplication will init at port:3000 - access http://localhost:3000/ignite-feed.git
 ```
 
 <p align="center"> Made with :heart: by <a href="https://github.com/millenabomtempo">Millena Bomtempo</a></p>
